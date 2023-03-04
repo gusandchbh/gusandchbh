@@ -2,7 +2,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusandchbh&show_icons=true&theme=radical)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/gusandchbh?theme=dark)
 
