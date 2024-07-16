@@ -1,6 +1,6 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/gusandchbh?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/codingbatter?theme=dark)
 
 
